@@ -4,8 +4,8 @@
         <header/>
         <body>
             <trans-unit id="tx_templavoilaplus_tmplobj" xml:space="preserve" approved="yes">
-                <source>TemplaVoilà Template Object</source>
-                <target state="translated">TemplaVoilà-Vorlagenobjekt</target>
+                <source>TemplaVoilà Plus Template Object</source>
+                <target state="translated">TemplaVoilà-Plus-Vorlagenobjekt</target>
             </trans-unit>
             <trans-unit id="tx_templavoilaplus_tmplobj.title" xml:space="preserve" approved="yes">
                 <source>Title:</source>
@@ -60,12 +60,12 @@
                 <target state="translated">Lokale Verarbeitung (XML):</target>
             </trans-unit>
             <trans-unit id="be_groups.tx_templavoilaplus_access" xml:space="preserve" approved="yes">
-                <source>Disallow access to TemplaVoilà objects:</source>
-                <target state="translated">Zugriff auf TemplaVoilà-Objekt verbieten:</target>
+                <source>Disallow access to TemplaVoilà Plus objects:</source>
+                <target state="translated">Zugriff auf TemplaVoilà-Plus-Objekt verbieten:</target>
             </trans-unit>
             <trans-unit id="tx_templavoilaplus_datastructure" xml:space="preserve" approved="yes">
-                <source>TemplaVoilà Data Structure</source>
-                <target state="translated">TemplaVoilà-Datenstruktur</target>
+                <source>TemplaVoilà Plus Data Structure</source>
+                <target state="translated">TemplaVoilà-Plus-Datenstruktur</target>
             </trans-unit>
             <trans-unit id="tx_templavoilaplus_datastructure.title" xml:space="preserve" approved="yes">
                 <source>Title:</source>
